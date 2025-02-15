@@ -1,11 +1,20 @@
+# Comments and Notes
+
+This is a modification of the code for personal use in the proyect ELO308
+for connect Frankmocap with UE4 and Blender.
+The original repo:
+https://github.com/carlosedubarreto/b3d_mocap_import/issues
+
+I made changes for adapt the code for Frankmocap.
+
+
 # b3d_mocap_import
-addon for blender to import mocap data from tools like easymocap, frankmocap and Vibe
+Add-on for blender to import mocap data from tools like easymocap, frankmocap and Vibe
 
 
 ==================VIBE==================
 
 To use VIBE you have to install it using
-
 
 https://github.com/mkocabas/VIBE
 
